@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+cleaned_sales_data.csv
